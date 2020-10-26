@@ -1,4 +1,3 @@
-# README.txt
 # Name: Alex Yu
 # UNI: ajy2116
 # Assignment: Programming Project 5
