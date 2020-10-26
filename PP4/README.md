@@ -1,7 +1,6 @@
-README.txt
-Name: Alex Yu
-UNI: ajy2116
-Assignment: Programming Project 4
+# Name: Alex Yu
+# UNI: ajy2116
+# Assignment: Programming Project 4
 
 ===============================================================================
 Card.java
