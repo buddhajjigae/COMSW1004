@@ -1,1 +1,1 @@
-# Programming Projects from COMSW 1004 Spring 2018
+Programming projects from COMSW 1004 Intro to Java Spring 2018
